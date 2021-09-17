@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+color: blanchedalmond;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: green;
+    text-align: center;
+  }
+  h2 {
+    font-size: 20px;
+    color: rgb(228, 7, 55);
+    text-align: center;
+  }
+  h3 {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+  }
+
+  #boris 
+  {
+      width: 50%;
+      margin: 0 auto;
+  }
+  #rechts 
+  {
+      width: 50%;
+      margin: 0 auto;
+  }
